@@ -1,0 +1,14 @@
+body{
+	background-color:blue;
+	font-family: 'Charmonman', cursive;
+}
+
+.paragraph1{
+	background-color: black;
+	font-size: 50px;
+	color: white;
+}
+
+.fab{
+	font-size: 150px;	
+}
